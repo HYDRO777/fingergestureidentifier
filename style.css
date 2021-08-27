@@ -1,0 +1,40 @@
+body
+{
+  color: black;
+  background: linear-gradient(yellow, lightgreen, lightblue);
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: xx-large;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #image
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#p1t ,#p2t
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+.dum{
+font-size: x-large;
+}
+
+.btn{
+  color: white;
+  background-color : black;
+}
+
+
